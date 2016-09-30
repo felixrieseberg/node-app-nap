@@ -3,6 +3,9 @@
   "version": "0.2.0",
   "description": "Enable or disable app nap for your app, from Node",
   "main": "index.js",
+  "os": [
+    "darwin"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
