@@ -1,0 +1,19 @@
+{
+  "name": "app-nap",
+  "version": "0.1.0",
+  "description": "Enable or disable app nap for your app, from Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Rieseberg <felix@felixrieseberg.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nan": "^2.3.5",
+    "node-gyp": "^3.4.0"
+  },
+  "dependencies": {
+    "bindings": "^1.2.1"
+  },
+  "gypfile": true
+}
