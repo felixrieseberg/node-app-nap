@@ -1,6 +1,6 @@
 {
   "name": "app-nap",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Enable or disable app nap for your app, from Node",
   "main": "index.js",
   "os": [
